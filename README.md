@@ -27,3 +27,6 @@ Sequence Diagrams for core workflows.
 Database Schema with table relationships and constraints.
 REST API Specifications for frontend-backend communication.
 Component Architecture Overview.
+
+
+This is the end
